@@ -1,0 +1,13 @@
+.navbar-brand{
+	font-family: 'Viga', sans-serif;
+}
+.jumbotron img {
+    width: 200px;
+    height: 200px;
+}
+.jumbotron {
+	height: 500px;
+	background-image: url(https://i.pinimg.com/originals/f0/2f/ac/f02facb397b8862ba24d1c1c9e79a3b0.jpg);
+	/*background-repeat: no-repeat;*/
+    /*background-size: 100% 100%;*/
+}
